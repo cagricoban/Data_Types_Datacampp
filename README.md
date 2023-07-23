@@ -1,5 +1,5 @@
 # Data Types for Data Science in Python Certification and Exercises
-* The certificate program usually covers the following topics:
+*The certificate program usually covers the following topics*
 
 * Basic Python data types: Fundamental knowledge about data types such as numbers, strings, lists, tuples, sets, and dictionaries.
 
