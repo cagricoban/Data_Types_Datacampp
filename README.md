@@ -9,8 +9,8 @@
 
 *String operations: Developing skills in performing string operations, such as splitting, concatenating, editing, and formatting text.
 
-*Python libraries for data analysis and manipulation: Proficiency in using popular libraries like NumPy and Pandas for data analysis and manipulation.
+* Python libraries for data analysis and manipulation: Proficiency in using popular libraries like NumPy and Pandas for data analysis and manipulation.
 
-*Data type validation and error handling: Strategies for validating user input, handling errors, and displaying appropriate error messages."
+* Data type validation and error handling: Strategies for validating user input, handling errors, and displaying appropriate error messages."
 
 ![certification](https://resmim.net/cdn/2023/07/23/SYcejT.png)
